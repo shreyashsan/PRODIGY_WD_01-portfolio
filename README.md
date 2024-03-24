@@ -7,13 +7,13 @@ A community maintained open source project aimed at making personal portfolio fo
 
 ### Home Page:
 
-<p align="center"><img src="./readme_assets/Home_Page.gif"></p>
+<p align="center"><img src="Home_Page.gif"></p>
 
 ### Project Page:
 
-<p align="center"><img src="./readme_assets/Project_Page.gif"></p>
+<p align="center"><img src="Project_Page.gif"></p>
 
 ### Education Page:
 
-<p align="center"><img src="./readme_assets/Education_Page.gif"></p>
+<p align="center"><img src="Education_Page.gif"></p>
 
